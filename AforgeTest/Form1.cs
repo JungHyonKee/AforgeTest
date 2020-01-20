@@ -140,5 +140,10 @@ namespace AforgeTest
         {
             var a = 111;
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            var b = 111;
+        }
     }
 }
