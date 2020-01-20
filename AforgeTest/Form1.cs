@@ -135,5 +135,10 @@ namespace AforgeTest
         private void button6_Click( object sender, EventArgs e ) {
 
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            var a = 111;
+        }
     }
 }
